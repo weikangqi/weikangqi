@@ -7,5 +7,8 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/weikangqi&right_color=red" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=weikangqi&show_icons=true&theme=dark&count_private=true)
+
+
 
 
