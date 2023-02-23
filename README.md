@@ -1,5 +1,5 @@
 # Hi 🎉 Welcome to weikangqi's Github Homepage!
-
+## I studied in Hefei University of Technology as an undergraduate and will study for my master's degree in Central South University
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
