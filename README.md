@@ -6,8 +6,8 @@
 <img src="https://img.shields.io/static/v1?label=Program&message=C&color=blue"/>
 <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/weikangqi&right_color=red" />
 </p>
-
-![](https://github-readme-stats.vercel.app/api?username=weikangqi&show_icons=true&theme=tokyonight&count_private=true)
+![Visitor Count](https://profile-counter.glitch.me/weikangqi/count.svg)
+![](https://github-readme-stats.vercel.app/api?username=weikangqi&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weikangqi&layout=compact&theme=tokyonight)
 
 
