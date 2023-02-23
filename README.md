@@ -9,7 +9,10 @@
 <!-- HTML -->
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=weikangqi" />
 
-
+<!-- HTML -->
+<div align="left"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=weikangqi" />
+</div>
 
 
 
