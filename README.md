@@ -7,7 +7,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=weikangqi&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weikangqi&layout=6&theme=tokyonight)
+
 ![Visitor Count](https://profile-counter.glitch.me/weikangqi/count.svg)
 
 
